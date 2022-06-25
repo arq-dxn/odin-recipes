@@ -5,3 +5,7 @@ Some of the skills I will have demonstrated after this project include:
 -Creating a website
 -Using link and image elements
 -Creating an HTML file
+
+Log
+-Started on the project. Created the HTML Boiler Plate
+-Title of the project "The Perfect Recipe For The Perfect Pancakes"
